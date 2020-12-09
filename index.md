@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/SACHINKUMARHACKER/sachinku
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Welcome to My Blog
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MyBlog is a blog site hosted on github pages
+
 
 ```markdown
 Syntax highlighted code block
