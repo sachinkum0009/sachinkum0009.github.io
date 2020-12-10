@@ -4,7 +4,7 @@ title: "Robo Bug Blog"
 description: "Blogs about ROS, AI, Android."
 logo: 'assets/images/rbb.png'
 favicon: 'assets/images/rbb.ico'
-baseurl: /robo-bug-blog
+#baseurl: /robo-bug-blog
 google_analytics: 'UA-91167138-1'
 disqus: 'robo-bug-blog'
 #mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
