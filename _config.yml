@@ -11,7 +11,7 @@ disqus: 'robo-bug-blog'
 include: ["_pages"]
 permalink: /:categories:title/
 
-url: "https://sachinkum0009.github.io/"
+url: "https://sachinkum0009.github.io"
 
 # Authors
 authors:
