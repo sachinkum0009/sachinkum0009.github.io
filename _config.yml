@@ -11,6 +11,8 @@ disqus: 'robo-bug-blog'
 include: ["_pages"]
 permalink: /:categories:title/
 
+url: "https://sachinkum0009.github.io/"
+
 # Authors
 authors:
   sachin:
@@ -30,6 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
     
 # Archives
 jekyll-archives:
