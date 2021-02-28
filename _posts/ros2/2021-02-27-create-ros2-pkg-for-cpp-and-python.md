@@ -30,7 +30,7 @@ So, to solve this problem, I created a new pkg in ros2 with build_type ament_cma
 But that is not all. This is not how it should work. We can need to find a way to build the msgs, c++ files, and even python scripts. Luckily, I found this and will share the process.
 </p>
 
-<p>
+
 1. Create a ros2 pkg inside your colcon_ws
 
 ```bash
@@ -320,5 +320,4 @@ num: 100
 
 <p>
 That’s all! For ros2 pkg that can build custom msgs and srvs and even build C++ file with includes and Python scripts with modules. ❤️
-</p>
 </p>
