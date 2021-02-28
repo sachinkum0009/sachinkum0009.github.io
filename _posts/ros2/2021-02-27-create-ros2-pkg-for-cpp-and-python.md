@@ -4,7 +4,7 @@ title: "Create ROS2 pkg to build c++ and python files"
 author: sachin
 categories: [ros2]
 tags: [ros2, c++, python]
-image: assets/images/flutter.png
+image: assets/images/robot.jpeg
 description: "Create ROS2 pkg to build custom msgs, srv, C++ files with includes and Python scripts with modules."
 featured: true
 hidden: false

@@ -4,7 +4,7 @@ title: "Flutter ROS Part 1"
 author: sachin
 categories: [android, ros]
 tags: [flutter, robotics, mobile app, iot]
-image: assets/images/robot.jpeg
+image: assets/images/flutter.png
 description: "Combining the power of ROS & Flutter to make some powerful applications."
 featured: true
 hidden: false
