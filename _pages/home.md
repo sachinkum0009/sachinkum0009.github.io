@@ -5,10 +5,6 @@ permalink: /
 comments: false
 ---
 
-<p>
-This is home page
-</p>
-
 {% if page.url == "/" %}
 
 <!-- Featured
@@ -45,7 +41,7 @@ This is home page
 
     <div class="row listrecent">
 
-        {% for post in posts %}
+        {% for post in site.posts %}
 
         {% include featuredbox.html %}
 
