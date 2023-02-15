@@ -9,7 +9,6 @@ comments: false
 <div class="col-md-8 pr-5">
 
 <p>Sachin's Blog is a blog site of content related to Robotics, Artificial Intelligence and Android Applications.<br>
-Checkout the latest content.
 </p>
 
 </div>

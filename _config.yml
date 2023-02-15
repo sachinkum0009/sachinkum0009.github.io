@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-plantuml-embed
 
     
 # Archives

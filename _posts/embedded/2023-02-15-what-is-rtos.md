@@ -11,9 +11,8 @@ hidden: false
 comments: true
 ---
 
-# Introduction
-
 RTOS - Real Time Operating System is a software component mainly used in embedded systems as software to manage the various tasks and most importantly meet the deadlines.
+
 
 # Types
 Generally, RTOS is divided into two types, based on the need to meet the task deadlines.
