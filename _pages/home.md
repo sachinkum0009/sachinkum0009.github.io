@@ -46,7 +46,7 @@ This is home page
 
     <div class="row listrecent">
 
-        {% for post in paginator.posts %}
+        {% for post in posts %}
 
         {% include postbox.html %}
 
