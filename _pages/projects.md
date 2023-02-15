@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About Sachin's Blog
-permalink: /about
+title: Projects
+permalink: /projects
 comments: false
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Sachin's Blog is a blog site of content related to Robotics, Artificial Intelligence and Android Applications.<br>
-Checkout the latest content.
+<p>This is the projects page<br>
+need to add projects
 </p>
 
 </div>
