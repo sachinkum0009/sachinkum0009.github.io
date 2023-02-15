@@ -32,7 +32,6 @@ This is home page
     </div>
 </section>
 
-{% endif %}
 
 <!-- Posts Index
 ================================================== -->
@@ -56,6 +55,7 @@ This is home page
 
 </section>
 
+{% endif %}
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
