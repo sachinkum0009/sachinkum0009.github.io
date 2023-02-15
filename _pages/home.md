@@ -43,7 +43,7 @@ comments: false
 
         {% for post in site.posts %}
 
-        {% include featuredbox.html %}
+        {% include postbox.html %}
 
         {% endfor %}
 
