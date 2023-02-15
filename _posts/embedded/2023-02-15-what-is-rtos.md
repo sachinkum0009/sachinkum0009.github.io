@@ -26,6 +26,14 @@ Generally, RTOS is divided into two types, based on the need to meet the task de
 Bob -> Alice : hello world
 ```
 
+![Alt text](http://g.gravizo.com/svg?
+@startuml;
+Object <|-- ArrayList;
+Object : equals%28%29;
+ArrayList : Object[] elementData;
+ArrayList : size%28%29;
+@enduml
+)
 
 Hard RTOS which may result in catastrophic event if deadline of the task is missed, while Soft RTOS may only slow the system in case the task deadline is missed.
 
