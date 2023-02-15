@@ -48,7 +48,7 @@ This is home page
 
         {% for post in posts %}
 
-        {% include postbox.html %}
+        {% include featuredbox.html %}
 
         {% endfor %}
 
