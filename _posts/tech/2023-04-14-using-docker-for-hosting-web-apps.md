@@ -17,6 +17,8 @@ Docker is very useful tool for various applications. One of the application, it 
 
 ----
 
+<p>
+Docker provides different images for operating systems to various applications. For example, Ubuntu, CentOS, Arch, OpenJDK (pre-built java), etc. With this, it becomes easier to dockerize the application and execute the application on the cloud without any pre installation or post installations.
 
 
 
