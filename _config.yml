@@ -9,7 +9,7 @@ google_analytics: 'UA-91167138-1'
 include: ["_pages"]
 permalink: /:categories/:title/
 
-url: "https://sachinkum0009.github.io"
+baseurl: "https://sachinkum0009.github.io"
 
 # Authors
 authors:
