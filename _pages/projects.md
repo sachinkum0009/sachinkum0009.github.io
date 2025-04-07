@@ -36,7 +36,6 @@ comments: false
 
 ---
 
-
 ### Robot Application Stack
 - **Description**: This project is a robotics application stack that allows robotics applications to be written once and run anywhere. It enables real-time feedback between virtual and physical workspaces, and ensures robots can seamlessly operate in dynamic environments.
 - **Technologies Used**: ROS2, Gazebo Sim, MoveIt, MQTT
@@ -52,5 +51,12 @@ comments: false
 - **GitHub**: [View on GitHub](https://github.com/sachinkum0009/carla-multi-sensor-fusion)
 
 ![Result](assets/images/sensor_fusion.gif)
+
+---
+
+### IO Gripper Controller
+- **Description**: This project involves the development of a gripper controller which is based on IO that allows for precise control of a robotic gripper using ROS2 Control. The controller is designed to work with various types of grippers which can be configured using params `yaml` file and can be easily integrated into existing robotic systems.
+- **Technologies Used**: ROS2, ROS2 Controller, ROS2 Control
+- **GitHub**: [View on GitHub](https://github.com/ros-controls/ros2_controllers/pull/1439)
 
 ---
