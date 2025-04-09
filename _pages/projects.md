@@ -36,6 +36,12 @@ comments: false
 
 ---
 
+### Multi-robot Visual SLAM & Navigation
+- **Description**: This project involves the development of a multi-robot visual SLAM and navigation system that enables multiple robots to work together to build a map of an unknown environment and navigate through it using VSLAM and avoid dynamic obstacle with Nav2 using NvBlox costmap layer.
+- **Technologies Used**: ROS2, CuVSLAM, NvBlox, Nav2, Isaac Sim, Docker, Zenoh
+
+---
+
 ### Robot Application Stack
 - **Description**: This project is a robotics application stack that allows robotics applications to be written once and run anywhere. It enables real-time feedback between virtual and physical workspaces, and ensures robots can seamlessly operate in dynamic environments.
 - **Technologies Used**: ROS2, Gazebo Sim, MoveIt, MQTT
