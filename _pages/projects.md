@@ -5,6 +5,12 @@ permalink: /projects
 comments: false
 ---
 
+### PyCuVSLAM ROS2
+- **Description**: This project is a ROS2 package that provides a ROS2 interface for the PyCuVSLAM library, enabling users to perform visual SLAM using CUDA-accelerated algorithms in Python with ROS2.
+- **Technologies Used**: ROS2, PyCuVSLAM, Docker, VSLAM
+- **GitHub**: [View on GitHub](https://github.com/sachinkum0009/pycuvslam-ros2)
+- **Website**: [View on Website](https://sachinkum0009.github.io/pycuvslam-ros2/)
+
 ### NavSwarm MARL
 - **Description**: This project involves the development of a multi-agent reinforcement learning (MARL) algorithm for swarm robotics, enabling multiple robots to work together to achieve a common goal in the context of autonomous navigation with obstacle avoidance.
 - **Technologies Used**: ROS2, PyTorch, Gazebo, Zenoh, Stable Baselines3
