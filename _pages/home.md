@@ -71,7 +71,9 @@ comments: false
 <section class="social" style="padding: 30px 0; text-align: center;">
     <h3 style="margin-bottom: 1em; font-weight: 600; color: #2575fc;">Connect with me</h3>
     <div style="display: flex; justify-content: center; gap: 32px; font-size: 2.4em;">
-        <a href="https://github.com/sachinkum0009" target="_blank" style="color: #333; transition: color 0.2s;"><i class="fa fa-github" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
+        <a href="https://github.com/sachinkum0009" target="_blank" style="color: #333; transition: color 0.2s;"><i class="fab fa-github" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
+        <a href="https://twitter.com/sachinkum0009" target="_blank" style="color: #1da1f2; transition: color 0.2s;"><i class="fa fa-twitter" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
+        <a href="https://www.linkedin.com/in/sachinkum0009/" target="_blank" style="color: #0077b5; transition: color 0.2s;"><i class="fab fa-linkedin" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
         <a href="mailto:sachinkum0009@gmail.com" style="color: #ea4335; transition: color 0.2s;"><i class="fa fa-envelope" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
     </div>
     <style>
