@@ -10,7 +10,7 @@ comments: false
 <!-- Modern Hero Section -->
 <section class="hero" style="padding: 80px 0 40px 0; text-align: center; background: linear-gradient(120deg, #6a11cb 0%, #2575fc 100%); color: #fff; position: relative;">
     <div style="display: flex; flex-direction: column; align-items: center;">
-        <img src="https://avatars.githubusercontent.com/u/sachinkum0009?v=4" alt="Sachin Kumar" style="width: 140px; height: 140px; border-radius: 50%; box-shadow: 0 4px 24px rgba(0,0,0,0.15); margin-bottom: 24px; border: 4px solid #fff;">
+        <img src="https://avatars.githubusercontent.com/u/19277194?v=4" alt="Sachin Kumar" style="width: 140px; height: 140px; border-radius: 50%; box-shadow: 0 4px 24px rgba(0,0,0,0.15); margin-bottom: 24px; border: 4px solid #fff;">
         <h1 style="font-size: 3em; font-weight: 700; margin-bottom: 0.2em; letter-spacing: 1px;">Sachin Kumar</h1>
         <span id="typed-text" style="font-size: 1.5em; font-weight: 400; margin-bottom: 1em; display: block; min-height: 2em;"></span>
         <a href="/blog" style="display: inline-block; padding: 14px 38px; background: #fff; color: #2575fc; border-radius: 30px; font-weight: bold; text-decoration: none; box-shadow: 0 2px 12px rgba(0,0,0,0.10); transition: background 0.2s, color 0.2s; font-size: 1.1em; margin-top: 10px;">Read My Blog</a>
@@ -72,7 +72,6 @@ comments: false
     <h3 style="margin-bottom: 1em; font-weight: 600; color: #2575fc;">Connect with me</h3>
     <div style="display: flex; justify-content: center; gap: 32px; font-size: 2.4em;">
         <a href="https://github.com/sachinkum0009" target="_blank" style="color: #333; transition: color 0.2s;"><i class="fa fa-github" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
-        <a href="https://twitter.com/sachinkum0009" target="_blank" style="color: #1da1f2; transition: color 0.2s;"><i class="fa fa-twitter" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
         <a href="mailto:sachinkum0009@gmail.com" style="color: #ea4335; transition: color 0.2s;"><i class="fa fa-envelope" style="background: #fff; border-radius: 50%; padding: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);"></i></a>
     </div>
     <style>
