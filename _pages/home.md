@@ -33,7 +33,7 @@ comments: false
     <div style="font-size: 2em;">
         <a href="https://github.com/sachinkum0009" target="_blank" style="margin: 0 15px; color: #333;"><i class="fa fa-github"></i></a>
         <a href="https://twitter.com/sachinkum0009" target="_blank" style="margin: 0 15px; color: #1da1f2;"><i class="fa fa-twitter"></i></a>
-        <a href="mailto:sachinkum0009@gmail.com" style="margin: 0 15px; color: #ea4335;"><i class="fa fa-envelope"></i></a>
+        <a href="mailto:sachinkumar.ar97@gmail.com" style="margin: 0 15px; color: #ea4335;"><i class="fa fa-envelope"></i></a>
         <!-- Add more social links as needed -->
     </div>
 </section>
